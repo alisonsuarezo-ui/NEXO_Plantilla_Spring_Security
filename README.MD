@@ -255,8 +255,4 @@ se implementan según las necesidades del proyecto que la utilice.
 ---
 ## 👨‍💻 Autor
 
-**Ing. Cristian Díaz**
-
-<p align="center">
-  <img width="300" src="https://i.imgur.com/a7YBcsp.png">
-</p>
+**Ing. Lisseth Katherine Y Alisson Suarez**
