@@ -1283,4 +1283,4 @@ if (state.token) {
         logout();
         toast('Inicia sesión nuevamente para continuar.', true);
     });
-}
+} 
